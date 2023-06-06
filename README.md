@@ -9,4 +9,6 @@
     （3）在线索二叉树中指定位置上插入一个用户自定义的结点；
               要求：给出测试案例验证相关运算求解结果。
 ![image](https://github.com/1951350456/binary_tree_application/assets/115992637/55e936a4-1592-498a-a5ed-aaa32ed117b8)
+![image](https://github.com/1951350456/binary_tree_application/assets/115992637/52599452-0949-4430-bcc7-21b1013d33d4)
+
 
